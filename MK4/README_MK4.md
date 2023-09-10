@@ -1,5 +1,6 @@
 # Low-cost-high-precision-volt-and-current-meter
 MK4 Readme
+This project is WIP
 Up to ±18V and ±20A. Up to ±2.5V difference may be present between the current input terminals and the V- input terminal.
 First posted attempt. Hermetically sealed 8 digit multimeter attempt with low common mode leakage, guarding, ADS1256, LM399, and ADA4523s sprinkled to taste.
 Has analog voltage rail sensing; because it makes sure none of the rails converters are drifty.

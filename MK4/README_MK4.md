@@ -6,3 +6,5 @@ First posted attempt. Hermetically sealed 8 digit multimeter attempt with low co
 Has analog voltage rail sensing; because it makes sure none of the rails converters are drifty.
 A single, low value shunt resstor is used for all current ranges, resulting in minimal impact on all signals, while also using a LNA to (hopefully) give beautiful performance.
 High voltage input impedance is present in all ranges.  
+
+NOT ALL THINGS ARE POSTED YET

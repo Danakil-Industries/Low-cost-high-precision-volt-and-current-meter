@@ -1,4 +1,7 @@
 # Low-cost-high-precision-volt-and-current-meter
+
+This repository should be considered depricated. The things learned in this project will be used at some point in the future to make a highly modular DAQ system.
+
 My attempts at a high accuracy, high resolution voltmeter and ammeter with low noise and high dynamic range.
 
 Posted attempts start at MK4, which is the first attempt with any sort of input protection. Who would have guessed that input protection would be important?
@@ -8,3 +11,5 @@ All attempts with a LM399/ADR1399 voltage reference are done so purely due to th
 The ammeter function was thrown in mostly because of extra avalible space, and to allow for precision power sensing. 
 
 I have had people tell me that my schematics are unreadable. All started with the best intentions, then I started to run out of space.
+
+
